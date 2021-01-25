@@ -5,7 +5,7 @@ Object.defineProperty(exports, "__esModule", {
 });
 exports.default = void 0;
 var _default = {
-  'header.image_editor_title': ' ',
+  'header.image_editor_title': 'Image Editor',
   'header.toggle_fullscreen': 'Toggle fullscreen',
   'header.close': 'Close',
   'header.close_modal': 'Close window',
